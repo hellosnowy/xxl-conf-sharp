@@ -103,4 +103,4 @@ As with the official configuration, the local files are loaded into the memory f
 
 和官方的一样，获取配置都是先本地文件加载到内存中，内存中没有则从远端获取，架构图就直接从[官网](https://www.xuxueli.com/xxl-conf/)拿了。
 
-![](https://www.xuxueli.com/doc/static/xxl-conf/images/img_08.png)
+![](https://github.com/hellosnowy/xxl-conf-sharp/blob/main/doc/img_08.png)
